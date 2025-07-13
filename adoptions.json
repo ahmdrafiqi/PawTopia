@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Milo",
+    "age": "2 years",
+    "breed": "Persian",
+    "location": "Pekanbaru",
+    "description": "Suka bermain dan sangat jinak.",
+    "owner": "Pawtopia Shelter",
+    "date": "2025-07-13",
+    "url": "https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg"
+  },
+  {
+    "name": "Luna",
+    "age": "1.5 years",
+    "breed": "Anggora",
+    "location": "Jakarta",
+    "description": "Aktif dan manja, cocok untuk keluarga.",
+    "owner": "Happy Tails Shelter",
+    "date": "2025-07-10",
+    "url": "https://cdn2.thecatapi.com/images/b1.jpg"
+  },
+  {
+    "name": "Charlie",
+    "age": "3 years",
+    "breed": "British Shorthair",
+    "location": "Bandung",
+    "description": "Tenang dan bersahabat dengan anak-anak.",
+    "owner": "Bandung Cat Rescue",
+    "date": "2025-06-29",
+    "url": "https://cdn2.thecatapi.com/images/6qi.jpg"
+  },
+  {
+    "name": "Nala",
+    "age": "2.5 years",
+    "breed": "Siamese",
+    "location": "Medan",
+    "description": "Lincah dan suka diperhatikan, sangat manja.",
+    "owner": "Nala's Foster Home",
+    "date": "2025-06-20",
+    "url": "https://cdn2.thecatapi.com/images/9oo.jpg"
+  },
+  {
+    "name": "Leo",
+    "age": "4 months",
+    "breed": "Tabby",
+    "location": "Surabaya",
+    "description": "Masih kecil dan butuh perhatian lebih.",
+    "owner": "Surabaya Animal Aid",
+    "date": "2025-07-01",
+    "url": "https://cdn2.thecatapi.com/images/2oo.jpg"
+  }
+]

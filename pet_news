@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Tips Makanan Sehat untuk Kucing",
+    "description": "Berikan kucing Anda makanan tinggi protein dan rendah karbohidrat. Hindari makanan manusia seperti bawang dan cokelat.",
+    "imageUrl": "https://cdn.pixabay.com/photo/2017/11/09/21/41/cat-2934720_1280.jpg"
+  },
+  {
+    "title": "Cara Menjaga Anjing Tetap Aktif dan Sehat",
+    "description": "Rutin ajak anjing jalan pagi dan bermain di halaman terbuka agar mereka tetap sehat dan tidak stres.",
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/02/19/10/00/dog-1207806_1280.jpg"
+  },
+  {
+    "title": "Rekomendasi Camilan Alami untuk Hewan Peliharaan",
+    "description": "Camilan seperti wortel, apel (tanpa biji), dan ayam rebus bisa jadi pilihan sehat untuk anjing dan kucing.",
+    "imageUrl": "https://cdn.pixabay.com/photo/2017/06/13/22/42/puppy-2408365_1280.jpg"
+  },
+  {
+    "title": "Mengenali Gejala Penyakit pada Kucing",
+    "description": "Perubahan perilaku, muntah, atau tidak mau makan bisa jadi tanda kucing Anda sakit. Segera konsultasi ke dokter hewan.",
+    "imageUrl": "https://cdn.pixabay.com/photo/2020/02/15/08/13/cat-4848132_1280.jpg"
+  },
+  {
+    "title": "Vaksin Penting untuk Hewan Peliharaan",
+    "description": "Pastikan hewan peliharaan Anda mendapat vaksin rutin untuk mencegah rabies, parvo, dan penyakit lainnya.",
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/03/27/22/16/veterinarian-1289623_1280.jpg"
+  }
+]
